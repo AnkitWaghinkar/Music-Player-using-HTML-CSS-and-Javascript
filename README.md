@@ -16,4 +16,5 @@ A simple music player built with HTML, CSS, and JavaScript. It allows users to p
 
 ## Screenshot
 Here is a preview of the Music Player:
+
 <img width="1024" height="638" alt="Music Player preview" src="https://github.com/user-attachments/assets/dd529452-f96e-485b-abd5-6da3dc31dd74" />
